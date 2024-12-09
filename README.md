@@ -6,6 +6,8 @@ Dashboard Link: https://github.com/mshivam980/Blinkit-Data-Analysis-with-Power-B
 
 Blinkit seeks to deepen its understanding of sales performance and customer behavior across its outlets. Key objectives include analyzing sales trends, customer preferences, and delivery efficiency across product types, fat content, and outlet characteristics. By using Power BI, Blinkit aims to gain actionable insights to optimize inventory, tailor product offerings, and improve customer satisfaction.
 
+https://github.com/user-attachments/assets/4b97e188-3043-4ac3-a912-00676103d08b
+
 ### Key Requirements for the Dashboard
 #### 1) Sales and Product Performance
 
